@@ -1,0 +1,6 @@
+ACT,10
+GAG,7
+TCC,11
+GTA,6
+TGC,5
+AGT,2
